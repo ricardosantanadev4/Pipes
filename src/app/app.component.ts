@@ -7,4 +7,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'pipes';
+  date = '2022/05/29';
+  date1 = '29/05/2022';
+  moeda = 1.0
 }
